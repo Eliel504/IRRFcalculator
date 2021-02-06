@@ -13,7 +13,6 @@
 <br>
 <br>
 
-
 <div align='center' >
     <h1>Desktop</h1>
     <img alt='git de demostração da aplicação mobile.' src="./design/page/gif/desktop/calculadora_desktop.gif"/>
@@ -24,7 +23,7 @@
 
 <div align='center'>
     <h1>Mobile</h1>
-    <img alt='git de demostração da aplicação desktop.' src="./design/page/gif/mobile/calculadora_mobile.gif"/>
+    <img alt='git de demostração da aplicação desktop.' src="./design/page/gif/mobile/calculadora_mobile.gif"/>  
 </div>
 
 <br>
@@ -43,4 +42,34 @@
 - HTML;
 - CSS / [SMACSS](http://smacss.com/) (Scalable and Modular Architecture for CSS);
 - JavaScript.
+
+## Instruções
+
+Há duas formas para poder utilizar a aplicação:
+
+**Clonando através do console**
+
+  - Primeiramente, instale o [Git](https://git-scm.com) em seu computador;
+
+  - Após a instalação, abra o **GitBash** a partir do diretório que receberá o clone;
+
+  - E por fim, digite o seguinte comando:
+
+```bash
+$ git clone https://github.com/Eliel504/IRRFcalculator.git
+```
+
+**Baixando através do GitHub**
+
+  - Clique na opção "**tag**", próximo as opções "branch" e "master";
+
+  - E então, faça o download da versão mais recente.
+
+## Licença
+
+Este projeto está sob a licença do **MIT**. Acesse o arquivo [LICENSE](https://github.com/Eliel504/IRRFcalculator/blob/master/LICENSE) para obter mais informações.
+
+
+
+
 
